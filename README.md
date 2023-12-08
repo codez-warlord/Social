@@ -1,8 +1,8 @@
 <div align="center"> 
   
-   ![GitHub repo size](https://img.shields.io/github/repo-size/U7P4L-IN/my-portfolio) 
-   ![GitHub stars](https://img.shields.io/github/stars/U7P4L-IN/my-portfolio?style=social) 
-   ![GitHub forks](https://img.shields.io/github/forks/U7P4L-IN/my-portfolio?style=social) 
+   ![GitHub repo size](https://img.shields.io/github/repo-size/web-developer03/social) 
+   ![GitHub stars](https://img.shields.io/github/stars/web-developer03/social?style=social) 
+   ![GitHub forks](https://img.shields.io/github/forks/web-developer03/social?style=social) 
   
    <br />
 
